@@ -1,2 +1,2 @@
-# inswapper
-Improved inplace face swapper for insightface inswapper
+# [WIP] inswapper
+A improved face swap model for insightface inswapper with smaller size. 
